@@ -20,6 +20,6 @@ pipeline {
             steps{
                 echo "This is to test"
             }
-        
+        }
     }
 }
